@@ -1,20 +1,5 @@
 -------------------------------------------------
-START GIT upload script at 2023-01-24_20:32:43
--------------------------------------------------
-origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (fetch)
-origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (push)
-origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (fetch)
-origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (push)
-Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
-[master 43635b3] Backup_2023_01_24
- 3 files changed, 12 insertions(+), 128 deletions(-)
- rewrite Backuplogs/git_fail.log (96%)
- rewrite Backuplogs/git_ready.log (95%)
--------------------------------------------------
-DONE with GIT upload script at 2023-01-24_20:32:47
--------------------------------------------------
--------------------------------------------------
-START GIT upload script at 2023-01-24_20:59:39
+START GIT upload script at 2023-01-24_21:20:53
 -------------------------------------------------
 origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (fetch)
 origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (push)
