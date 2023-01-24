@@ -11,7 +11,7 @@ echo "-------------------------------------------------" >> /home/pi/printer_dat
 cd ~/printer_data/config >> /home/pi/printer_data/config/Backuplogs/git_ready.log
 sleep 0.1s ; git remote -v 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
 sleep 0.1s ; git remote rm origin 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
-sleep 0.1s ; git remote add origin https://github.com/diySascha/Vyper_Klipper.git 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
+sleep 0.1s ; git remote add origin ssh://git@github.com/diySascha/Vyper_Klipper.git 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
 sleep 0.1s ; git remote -v 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
 sleep 0.2s ; git init 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
 sleep 0.2s ; git add . 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
