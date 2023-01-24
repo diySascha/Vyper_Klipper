@@ -1,4 +1,4 @@
-# VYPER_klipper_backup
+# VYPER / Klipper Backup
 
 ### Backup of my Klipper for my Anycubic Vyper 3D Printer<br />
 
