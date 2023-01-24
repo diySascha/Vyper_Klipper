@@ -1,65 +1,65 @@
-          8,972 100%   51.84kB/s    0:00:00            8,972 100%   51.84kB/s    0:00:00 (xfr#21, to-chk=2/27)
-Backuplogs/
-Backuplogs/log_fail.log
-            210 100%    1.21kB/s    0:00:00              210 100%    1.21kB/s    0:00:00 (xfr#22, to-chk=1/27)
-Backuplogs/log_ready.log
-          6,841 100%   39.30kB/s    0:00:00            6,841 100%   39.30kB/s    0:00:00 (xfr#23, to-chk=0/27)
-
-sent 449,513 bytes  received 480 bytes  899,986.00 bytes/sec
-total size is 444,629  speedup is 0.99
--------------------------------------------------
-2023-01-24_19:25:32
-sending incremental file list
-./
-.gitignore
-             33 100%    0.00kB/s    0:00:00               33 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=25/27)
-Area_Mesh.cfg
-          5,975 100%    5.70MB/s    0:00:00            5,975 100%    5.70MB/s    0:00:00 (xfr#2, to-chk=24/27)
-KlipperScreen.conf
-            691 100%  674.80kB/s    0:00:00              691 100%  674.80kB/s    0:00:00 (xfr#3, to-chk=23/27)
-adxl345.cfg
-          4,494 100%    2.14MB/s    0:00:00            4,494 100%    2.14MB/s    0:00:00 (xfr#4, to-chk=22/27)
-crowsnest.conf
-          1,872 100%  914.06kB/s    0:00:00            1,872 100%  914.06kB/s    0:00:00 (xfr#5, to-chk=21/27)
-macros.cfg
-         20,301 100%    6.45MB/s    0:00:00           20,301 100%    6.45MB/s    0:00:00 (xfr#6, to-chk=20/27)
-moonraker.conf
-          2,484 100%  808.59kB/s    0:00:00            2,484 100%  808.59kB/s    0:00:00 (xfr#7, to-chk=19/27)
-printer.cfg
-         13,738 100%    3.28MB/s    0:00:00           13,738 100%    3.28MB/s    0:00:00 (xfr#8, to-chk=18/27)
-shell_command.cfg
-          1,112 100%  217.19kB/s    0:00:00            1,112 100%  217.19kB/s    0:00:00 (xfr#9, to-chk=17/27)
-sonar.conf
-            770 100%  125.33kB/s    0:00:00              770 100%  125.33kB/s    0:00:00 (xfr#10, to-chk=16/27)
-telegram.conf
-          8,880 100%    1.21MB/s    0:00:00            8,880 100%    1.21MB/s    0:00:00 (xfr#11, to-chk=15/27)
-timelapse.cfg
-         21,952 100%    2.99MB/s    0:00:00           21,952 100%    2.99MB/s    0:00:00 (xfr#12, to-chk=14/27)
-.scripts/
-.scripts/Backup.sh
-          1,075 100%   38.88kB/s    0:00:00            1,075 100%   38.88kB/s    0:00:00 (xfr#13, to-chk=10/27)
-.scripts/script_calc_res_x.sh
-             92 100%    2.99kB/s    0:00:00               92 100%    2.90kB/s    0:00:00 (xfr#14, to-chk=9/27)
-.scripts/script_calc_res_x_y.sh
-            186 100%    5.68kB/s    0:00:00              186 100%    5.68kB/s    0:00:00 (xfr#15, to-chk=8/27)
-.scripts/script_calc_res_y.sh
-             92 100%    2.72kB/s    0:00:00               92 100%    2.72kB/s    0:00:00 (xfr#16, to-chk=7/27)
-.theme/
-.theme/custom.css
-          4,047 100%  112.92kB/s    0:00:00            4,047 100%  109.78kB/s    0:00:00 (xfr#17, to-chk=6/27)
-.theme/favicon-16x16.png
-            974 100%   25.71kB/s    0:00:00              974 100%   25.71kB/s    0:00:00 (xfr#18, to-chk=5/27)
-.theme/favicon-32x32.png
-          1,535 100%   38.44kB/s    0:00:00            1,535 100%   38.44kB/s    0:00:00 (xfr#19, to-chk=4/27)
-.theme/sidebar-background.png
-         32,768   9%  551.72kB/s    0:00:00          351,187 100%    1.62MB/s    0:00:00 (xfr#20, to-chk=3/27)
-.theme/sidebar-logo.png
-          8,972 100%   41.52kB/s    0:00:00            8,972 100%   41.33kB/s    0:00:00 (xfr#21, to-chk=2/27)
-Backuplogs/
-Backuplogs/log_fail.log
-            280 100%    1.29kB/s    0:00:00              280 100%    1.29kB/s    0:00:00 (xfr#22, to-chk=1/27)
-Backuplogs/log_ready.log
-          6,832 100%   31.47kB/s    0:00:00            6,832 100%   31.32kB/s    0:00:00 (xfr#23, to-chk=0/27)
 
 sent 459,505 bytes  received 480 bytes  919,970.00 bytes/sec
 total size is 454,628  speedup is 0.99
+-------------------------------------------------
+2023-01-24_19:54:19
+sending incremental file list
+./
+.gitignore
+             33 100%    0.00kB/s    0:00:00               33 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=28/30)
+Area_Mesh.cfg
+          5,975 100%    5.70MB/s    0:00:00            5,975 100%    5.70MB/s    0:00:00 (xfr#2, to-chk=27/30)
+KlipperScreen.conf
+            691 100%  674.80kB/s    0:00:00              691 100%  674.80kB/s    0:00:00 (xfr#3, to-chk=26/30)
+adxl345.cfg
+          4,494 100%    4.29MB/s    0:00:00            4,494 100%    4.29MB/s    0:00:00 (xfr#4, to-chk=25/30)
+crowsnest.conf
+          1,872 100%    1.79MB/s    0:00:00            1,872 100%    1.79MB/s    0:00:00 (xfr#5, to-chk=24/30)
+macros.cfg
+         20,642 100%   19.69MB/s    0:00:00           20,642 100%   19.69MB/s    0:00:00 (xfr#6, to-chk=23/30)
+moonraker.conf
+          2,484 100%    2.37MB/s    0:00:00            2,484 100%    2.37MB/s    0:00:00 (xfr#7, to-chk=22/30)
+printer.cfg
+         13,738 100%   13.10MB/s    0:00:00           13,738 100%   13.10MB/s    0:00:00 (xfr#8, to-chk=21/30)
+shell_command.cfg
+          1,112 100%    1.06MB/s    0:00:00            1,112 100%    1.06MB/s    0:00:00 (xfr#9, to-chk=20/30)
+sonar.conf
+            770 100%  375.98kB/s    0:00:00              770 100%  375.98kB/s    0:00:00 (xfr#10, to-chk=19/30)
+telegram.conf
+          8,880 100%    4.23MB/s    0:00:00            8,880 100%    4.23MB/s    0:00:00 (xfr#11, to-chk=18/30)
+timelapse.cfg
+         21,952 100%   10.47MB/s    0:00:00           21,952 100%   10.47MB/s    0:00:00 (xfr#12, to-chk=17/30)
+.scripts/
+.scripts/backup_GIT.sh
+          3,253 100%   99.27kB/s    0:00:00            3,253 100%   99.27kB/s    0:00:00 (xfr#13, to-chk=13/30)
+.scripts/backup_NAS.sh
+          1,075 100%   32.81kB/s    0:00:00            1,075 100%   32.81kB/s    0:00:00 (xfr#14, to-chk=12/30)
+.scripts/script_calc_res_x.sh
+             92 100%    2.81kB/s    0:00:00               92 100%    2.81kB/s    0:00:00 (xfr#15, to-chk=11/30)
+.scripts/script_calc_res_x_y.sh
+            186 100%    5.68kB/s    0:00:00              186 100%    5.68kB/s    0:00:00 (xfr#16, to-chk=10/30)
+.scripts/script_calc_res_y.sh
+             92 100%    2.81kB/s    0:00:00               92 100%    2.81kB/s    0:00:00 (xfr#17, to-chk=9/30)
+.theme/
+.theme/custom.css
+          4,047 100%  119.76kB/s    0:00:00            4,047 100%  119.76kB/s    0:00:00 (xfr#18, to-chk=8/30)
+.theme/favicon-16x16.png
+            974 100%   28.82kB/s    0:00:00              974 100%   28.82kB/s    0:00:00 (xfr#19, to-chk=7/30)
+.theme/favicon-32x32.png
+          1,535 100%   45.42kB/s    0:00:00            1,535 100%   45.42kB/s    0:00:00 (xfr#20, to-chk=6/30)
+.theme/sidebar-background.png
+         32,768   9%  627.45kB/s    0:00:00          351,187 100%    2.02MB/s    0:00:00 (xfr#21, to-chk=5/30)
+.theme/sidebar-logo.png
+          8,972 100%   52.78kB/s    0:00:00            8,972 100%   52.78kB/s    0:00:00 (xfr#22, to-chk=4/30)
+Backuplogs/
+Backuplogs/git_fail.log
+            792 100%    4.60kB/s    0:00:00              792 100%    4.60kB/s    0:00:00 (xfr#23, to-chk=3/30)
+Backuplogs/git_ready.log
+          1,928 100%   11.21kB/s    0:00:00            1,928 100%   11.21kB/s    0:00:00 (xfr#24, to-chk=2/30)
+Backuplogs/log_fail.log
+            350 100%    2.03kB/s    0:00:00              350 100%    2.03kB/s    0:00:00 (xfr#25, to-chk=1/30)
+Backuplogs/log_ready.log
+          7,250 100%   42.14kB/s    0:00:00            7,250 100%   41.89kB/s    0:00:00 (xfr#26, to-chk=0/30)
+
+sent 466,522 bytes  received 537 bytes  311,372.67 bytes/sec
+total size is 461,012  speedup is 0.99
