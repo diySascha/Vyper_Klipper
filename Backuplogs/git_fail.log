@@ -20,3 +20,11 @@ DONE with GIT upload script at 2023-01-24_19:57:13
 -------------------------------------------------
 START GIT upload script at 2023-01-24_19:58:48
 -------------------------------------------------
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/diySascha/Vyper_Klipper.git'
+-------------------------------------------------
+DONE with GIT upload script at 2023-01-24_19:58:50
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-01-24_20:00:29
+-------------------------------------------------

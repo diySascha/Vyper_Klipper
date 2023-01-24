@@ -34,3 +34,16 @@ origin	https://github.com/diySascha/Vyper_Klipper.git (push)
 origin	https://github.com/diySascha/Vyper_Klipper.git (fetch)
 origin	https://github.com/diySascha/Vyper_Klipper.git (push)
 Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main 9c6a3ce] Backup_2023_01_24
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+-------------------------------------------------
+DONE with GIT upload script at 2023-01-24_19:58:50
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-01-24_20:00:29
+-------------------------------------------------
+origin	https://github.com/diySascha/Vyper_Klipper.git (fetch)
+origin	https://github.com/diySascha/Vyper_Klipper.git (push)
+origin	https://github.com/diySascha/Vyper_Klipper.git (fetch)
+origin	https://github.com/diySascha/Vyper_Klipper.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
