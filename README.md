@@ -1,6 +1,6 @@
 # VYPER / Klipper Backup
 
-### Backup of my Klipper for my Anycubic Vyper 3D Printer<br />
+### Anycubic Vyper 3D Printer with Klipper<br />
 
 with BL Touch, ADXL345, Z-Tilt (Dual Z Motors)<br />
 
