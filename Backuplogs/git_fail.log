@@ -1,12 +1,3 @@
-START GIT upload script at 2023-01-29_12:22:48
--------------------------------------------------
-To ssh://github.com/diySascha/Vyper_Klipper.git
-   1b42a96..05c49ae  master -> master
--------------------------------------------------
-DONE with GIT upload script at 2023-01-29_12:22:51
--------------------------------------------------
--------------------------------------------------
-START GIT upload script at 2023-01-29_15:20:50
 -------------------------------------------------
 To ssh://github.com/diySascha/Vyper_Klipper.git
    05c49ae..6d61fd4  master -> master
@@ -65,4 +56,10 @@ DONE with GIT upload script at 2023-05-26_22:23:33
 -------------------------------------------------
 -------------------------------------------------
 START GIT upload script at 2023-05-30_20:05:39
+-------------------------------------------------
+remote: Resolving deltas:   0% (0/5)        remote: Resolving deltas:  20% (1/5)        remote: Resolving deltas:  40% (2/5)        remote: Resolving deltas:  60% (3/5)        remote: Resolving deltas:  80% (4/5)        remote: Resolving deltas: 100% (5/5)        remote: Resolving deltas: 100% (5/5), completed with 5 local objects.        
+To ssh://github.com/diySascha/Vyper_Klipper.git
+   f691a71..ad72431  master -> master
+-------------------------------------------------
+DONE with GIT upload script at 2023-05-30_20:05:42
 -------------------------------------------------
