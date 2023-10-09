@@ -1,18 +1,3 @@
- 6 files changed, 202 insertions(+), 561 deletions(-)
- rewrite KlipperScreen.conf (85%)
- delete mode 100644 printer-20230209_203404.cfg
-GIT Repo adress: https://github.com/diySascha/Vyper_Klipper
--------------------------------------------------
-DONE with GIT upload script at 2023-02-20_00:39:13
--------------------------------------------------
--------------------------------------------------
-START GIT upload script at 2023-02-20_00:44:40
--------------------------------------------------
-origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (fetch)
-origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (push)
-origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (fetch)
-origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (push)
-Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
 [master 4c967e9] Backup_2023_02_20
  4 files changed, 37 insertions(+), 16 deletions(-)
 GIT Repo adress: https://github.com/diySascha/Vyper_Klipper
@@ -65,6 +50,21 @@ DONE with GIT upload script at 2023-05-30_20:05:42
 -------------------------------------------------
 -------------------------------------------------
 START GIT upload script at 2023-10-09_09:44:21
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (fetch)
+origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (push)
+origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (fetch)
+origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main 0cd74a2] Backup_2023_10_09
+ 6 files changed, 64 insertions(+), 94 deletions(-)
+ delete mode 100644 .moonraker.conf.bkp
+GIT Repo adress: https://github.com/diySascha/Vyper_Klipper
+-------------------------------------------------
+DONE with GIT upload script at 2023-10-09_09:44:24
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-10-09_09:49:40
 -------------------------------------------------
 origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (fetch)
 origin	ssh://git@github.com/diySascha/Vyper_Klipper.git (push)
